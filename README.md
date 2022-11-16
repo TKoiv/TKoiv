@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine learning / AI / robotics
 - 📚 I study at Oulu University of Applied Sciences  
 - 🌱 I’m currently learning Python, C++, C
-- 💞️ I’m looking to collaborate on from companies that work with AI, machine learning or robotics
+- 💞️ I’m looking to collaborate on from companies that work with e.g AI, machine learning or robotics
 - 📫 How to reach me c1kota00@students.oamk.fi
 
 <!---
